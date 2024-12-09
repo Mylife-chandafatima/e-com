@@ -34,7 +34,7 @@ export default function Footer() {
             </p>
             <div className="flex justify-center gap-4 mt-4">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/zubiafatima.zubiafatima.52?mibextid=ZbWkwl"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-[#007580] text-xl p-2 border-2 border-transparent rounded-full hover:border-[#007580]"
@@ -50,7 +50,7 @@ export default function Footer() {
                 <FaTwitter />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://instagram.com/chandafatimamylife/profilecard/?igsh=MWo0OWNb29xMmzsNQ=="
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-[#007580] text-xl p-2 border-2 border-transparent rounded-full hover:border-[#007580]"

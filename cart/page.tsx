@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { CiHeart } from "react-icons/ci";
+import { AiOutlineHeart } from "react-icons/ai"; // Replace CiHeart
 import { RiDeleteBin6Line } from "react-icons/ri";
 
 const Cart = () => {
@@ -31,7 +31,7 @@ const Cart = () => {
                   </p>
                 </div>
                 <div className="flex gap-3 mt-3">
-                  <CiHeart />
+                  <AiOutlineHeart />
                   <RiDeleteBin6Line />
                 </div>
               </div>
@@ -63,7 +63,7 @@ const Cart = () => {
                   </p>
                 </div>
                 <div className="flex gap-3 mt-3">
-                  <CiHeart />
+                  <AiOutlineHeart />
                   <RiDeleteBin6Line />
                 </div>
               </div>
